@@ -1,27 +1,28 @@
-Package: TRuFE
-Title: Transition Rule Frequencies and Entropy for Land Use/Land Cover Change
-    Modelling in R
-Version: 0.0.0.9000
-Date: 2016-12-08
+Package: DotRules
+Title: Short Title of the Package
+Version: 1.0.0
+Date: 2017-01-01
 Authors@R: c(person("Majid","Roodposhti", role = c("aut"),
-                     email = "Joe.Developer@some.domain.net"),
-              person("Romain", "Louvet", role = "cre"),
-              person("A.", "User", role = "ctb",
-                     email = "A.User@whereever.net"),
-              person("A.", "User", role = "ctb",
-                     email = "A.User@whereever.net"))
+                     email = "majid.shadman@utas.edu"),
+              person("Romain", "Louvet", role = c("aut","cre"),
+                    email= "romain.louvet@utas.edu"),
+              person("Brett", "Bryan", role = c("aut","ths"),
+                     email = "Brett.Bryan@csiro.au"),
+              person("Jagannath", "Aryal", role = c("aut","ths"),
+                     email = "Jagannath.Aryal@utas.edu"))
 Author: Majid Roodposhti [aut],
     Romain Louvet [cre],
-    A. User [ctb]
-    A. User [ctb]
-Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+    Brett Bryan [ths]
+    Jagannath Aryal [ths]
+Maintainer: Romain Louvet <romain.louvet@utas.edu>
 Description: What the package does (one paragraph).
 Depends: R (>= 3.3.0)
-License: GPL (>= 2)
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports:
 Suggests:
 RoxygenNote: 5.0.1
-URL: https://www.r-project.org, http://www.another.url
-BugReports: https://pkgname.bugtracker.url
+URL: https://github.com/romain-louvet/DotRules
+BugReports: https://github.com/romain-louvet/DotRules/issues
+NeedsCompilation: no
