@@ -1,0 +1,27 @@
+Package: TRuFE
+Title: Transition Rule Frequencies and Entropy for Land Use/Land Cover Change
+    Modelling in R
+Version: 0.0.0.9000
+Date: 2016-12-08
+Authors@R: c(person("Majid","Roodposhti", role = c("aut"),
+                     email = "Joe.Developer@some.domain.net"),
+              person("Romain", "Louvet", role = "cre"),
+              person("A.", "User", role = "ctb",
+                     email = "A.User@whereever.net"),
+              person("A.", "User", role = "ctb",
+                     email = "A.User@whereever.net"))
+Author: Majid Roodposhti [aut],
+    Romain Louvet [cre],
+    A. User [ctb]
+    A. User [ctb]
+Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports:
+Suggests:
+RoxygenNote: 5.0.1
+URL: https://www.r-project.org, http://www.another.url
+BugReports: https://pkgname.bugtracker.url
