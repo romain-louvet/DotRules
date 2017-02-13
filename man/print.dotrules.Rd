@@ -12,5 +12,8 @@
 \item{...}{other arguments}
 }
 \description{
-Print method for a dotrules object
+Print method for a dotrules object.
+Print confusion matrices of the overall accuracy,
+the training sample accuracy, and the testing sample
+accuracy.
 }

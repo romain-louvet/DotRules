@@ -12,5 +12,7 @@
 \item{...}{other arguments}
 }
 \description{
-Plot method for a dotrules object
+Plot method for a dotrules object.
+Plot the probability, the entropy, and the accuracy, of the extracted rules.
+With the base graphics and plotly.
 }

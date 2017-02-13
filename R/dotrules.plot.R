@@ -1,6 +1,8 @@
 #' Plot results
 #'
-#' Plot method for a dotrules object
+#' Plot method for a dotrules object.
+#' Plot the probability, the entropy, and the accuracy, of the extracted rules.
+#' With the base graphics and plotly.
 #'
 #' @param x dotrules object
 #' @param ... other arguments
